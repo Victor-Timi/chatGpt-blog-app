@@ -29,7 +29,7 @@ const Navbar = (props: Props) => {
             celebrate and rediscover the untamed beauty of our world.
           </p>
         </div>
-        <div className="basis-full relative w-auto h-32 mt-8 bg-wh-500">
+        <div className="basis-full relative w-auto h-32 bg-wh-500">
           <Image
             fill
             style={{ objectFit: "cover" }}
